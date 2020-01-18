@@ -1,1 +1,2 @@
 # learngit
+read me 
